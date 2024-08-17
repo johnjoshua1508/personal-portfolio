@@ -6,7 +6,7 @@ Welcome to My Personal PortFolio ! I'm H John Joshua, a Data Science Enthusiaist
 
 ## 🖥️ Live Demo
 
-Check out the live demo of my portfolio [MY PORTFOLIO CLICK HERE]([https://www.dhaneshwar.site/](https://johnjoshua1508.github.io/personal-portfolio/#)).
+Check out the live demo of my portfolio [MY PORTFOLIO CLICK HERE](https://johnjoshua1508.github.io/personal-portfolio/#).
 
 ## 📁 Repository Structure
 
